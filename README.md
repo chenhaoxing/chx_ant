@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Haoxing Chen. Now, I'm an AI researcher at Tiansuan Lab, Ant Group. 
+I am Haoxing Chen. Now, I'm an AI researcher at AGI Lab, Ant Research Institute. 
 
 ### Contact
 - e-mail: hx.chen@hotmail.com
